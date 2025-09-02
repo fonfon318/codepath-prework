@@ -33,7 +33,7 @@ Perhaps a music app that let's you store diary entries since music is so closely
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+-Had trouble figuring out that we needed to create the file using storyboard. Other than that, everything else was straight forward
 
 ## License
 
